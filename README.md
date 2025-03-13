@@ -19,4 +19,6 @@ link- https://github.com/pawanichaudharyy/Excel-Project/blob/main/Vasundra%20Sto
 -merge all pivot tables into one dashboard and apply slicer to make dynamic.
 #Dashboard
 link - https://github.com/pawanichaudharyy/Excel-Project/blob/main/Screenshot%20(1).png
+#screenshot 
+link- ![Screenshot (1)](https://github.com/user-attachments/assets/e255d2bf-1863-4742-b462-dc8349ab71cc)
 
