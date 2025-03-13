@@ -21,4 +21,12 @@ link- https://github.com/pawanichaudharyy/Excel-Project/blob/main/Vasundra%20Sto
 link - https://github.com/pawanichaudharyy/Excel-Project/blob/main/Screenshot%20(1).png
 #screenshot 
 link- ![Screenshot (1)](https://github.com/user-attachments/assets/e255d2bf-1863-4742-b462-dc8349ab71cc)
+##project insights
+-women customers are more likely to buy products compare to men(~65%).
+-the states of maharashtra , uttar pradesh and karnataka are the top 3 product buyers.
+-the adult age group is max contributing and buys the most products.
+-the maximum numbers of products customers orders from Amazon , mintra and flipkart.
+-more than 90% products delivered.
+##final conclusion
+To improve the sales of vasundra store , a strategic marketing plan focused on women aged 30-49 years residing in maharashtra , karnataka and uttar pradesh should be implemented. This demographic represents a key consumer segment , as they often make significant household and lifestyle purchases. the approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
