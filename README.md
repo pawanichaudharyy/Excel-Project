@@ -2,6 +2,8 @@
 I developed a comprehensive project in Excel , creating multiple dashboards and tables to analyze the data. This process involved several stages , including data preprocessing , data cleaning and data visualization.
 # project objective
 The vasundra store wants to create an annual sales report for 2025. sp that , the owner of the vasundra store can understand their customers and grow more sales in 2026 & 2027.
+#dataset used
+link-
 #questions
 -compare the sales and orders using single chart.
 -which month got the highest sales and order?
@@ -15,4 +17,6 @@ The vasundra store wants to create an annual sales report for 2025. sp that , th
 -make sure data is consistent and clean with respect to data type, data formate and values used.
 -created pivot table according to the question asked.
 -merge all pivot tables into one dashboard and apply slicer to make dynamic.
+#Dashboard
+link - https://github.com/pawanichaudharyy/Excel-Project/blob/main/Screenshot%20(1).png
 
