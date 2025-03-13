@@ -3,7 +3,7 @@ I developed a comprehensive project in Excel , creating multiple dashboards and 
 # project objective
 The vasundra store wants to create an annual sales report for 2025. sp that , the owner of the vasundra store can understand their customers and grow more sales in 2026 & 2027.
 #dataset used
-link-
+link- https://github.com/pawanichaudharyy/Excel-Project/blob/main/Vasundra%20Store%20Data%20Analysis.xlsx
 #questions
 -compare the sales and orders using single chart.
 -which month got the highest sales and order?
